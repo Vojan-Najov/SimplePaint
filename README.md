@@ -1,7 +1,7 @@
 # SimplePaint
 A simple drawing program. OpenGL, GLUT.
 
-## USage
+## Usage
 - `$> make SimplePaint`
 - `$> ./Simplapaint`
 - The right mouse button opens a menu with options to clear the screen and quit.
